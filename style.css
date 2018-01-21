@@ -1,0 +1,12 @@
+#footer{margin-bottom:4rem;}
+.jumbotron{
+  background-image:url("http://via.placeholder.com/1000x700/0e00e0");
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-position: bottom center;
+  padding: 5rem 0;
+}
+.mastinfo{
+  background-color:rgba(255,255,255,0.55);
+  padding: 2rem;
+}
